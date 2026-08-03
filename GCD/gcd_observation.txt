@@ -1,0 +1,4 @@
+Number of iterations : 1000000
+Total execution time : 0.042000 s
+Average Time per GCD : 42.000 ns
+average cycles per GCD : 88.639 cycles
